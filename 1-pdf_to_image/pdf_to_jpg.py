@@ -2,11 +2,16 @@ import os
 from pdf2image import convert_from_path
 
 # Path to the PDF file
-pdf_path = 'ocr_pdf/Redacted_IEP_4_TX.pdf'  # Replace with your PDF file
+pdf_path = '1-pdf_to_image/Redacted_IEP_3_CA.pdf'  # Replace with your PDF file
 
 # Create a folder with the name of the PDF (without extension)
 pdf_name = os.path.splitext(os.path.basename(pdf_path))[0]
-output_folder = pdf_name
+
+# Get the directory of the PDF file
+pdf_directory = os.path.dirname(pdf_path)
+
+# Create the output folder in the same directory as the PDF
+output_folder = os.path.join(pdf_directory, pdf_name)
 
 # Create the folder if it doesn't exist
 if not os.path.exists(output_folder):

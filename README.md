@@ -1,4 +1,4 @@
-# IAP
-Document reading project for the IAP.
+# IEP
+Document reading project for the IEP.
 
 #
