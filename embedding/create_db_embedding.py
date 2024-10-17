@@ -11,7 +11,7 @@ if key_openai is None:
 try:
     chroma_client = chromadb.PersistentClient(path='iap_db')
     # You can change collection: ( 1ca ), ( 2ca ), ( 3ca ), ( 4tx )
-    collection = chroma_client.get_or_create_collection(name="3ca")
+    collection = chroma_client.get_or_create_collection(name="1ca")
 except Exception as e:
     print(f"Error initializing ChromaDB client: {e}")
     raise
@@ -28,10 +28,10 @@ def split_text(text):
 
 # Reading the text file
 try:
-    with open('extracted_3_CA.txt', 'r', encoding="utf-8") as file:
+    with open('image_processing\Redacted_IEP_1_CA.txt', 'r', encoding="utf-8") as file:
         text = file.read()
 except FileNotFoundError:
-    print("File 'extracted_3_CA.txt' not found.")
+    print("File '.txt' not found.")
     text = ""
 
 pieces = split_text(text)
