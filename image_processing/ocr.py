@@ -158,7 +158,6 @@ def detect_filled_checkboxes_and_extract_text_from_folder(folder_path, output_te
     save_results(all_texts, output_text_path)
     print(f"Results saved to {output_text_path}")
 
-# Example usage
 
 folder_path = "pdf_to_image/Redacted_IEP_1_CA"
 

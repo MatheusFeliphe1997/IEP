@@ -16,7 +16,8 @@ client = OpenAI(api_key=key_openai)
 try:
     chroma_client = chromadb.PersistentClient(path='iap_db')
     # You can change collection: ( 1ca ), ( 2ca ), ( 3ca ), ( 4tx )
-    collection = chroma_client.get_collection(name="3ca")
+    collection_name = "1ca"  # Store the collection name
+    collection = chroma_client.get_collection(name=collection_name)
 except Exception as e:
     print(f"Error initializing ChromaDB client: {e}")
     raise
@@ -82,7 +83,8 @@ def generate_openai_response(client, content, question):
         print(f"Error generating response: {e}")
         return {"error": "Sorry, I couldn't generate a response at this time."}
     
-def save_response_to_json(response, filename):
+def save_response_to_json(response, collection_name):
+    filename = f"{collection_name}.json"  # Use the collection name in the filename
     try:
         with open(filename, 'w') as json_file:
             json.dump(response, json_file, indent=4)
@@ -104,11 +106,12 @@ if __name__ == "__main__":
             first_doc = results['documents'][0]
             content = " ".join(first_doc)
             question = query
+            
             # After generating the response
             response = generate_openai_response(client, content, question)
 
-            # Save the response to a JSON file
-            save_response_to_json(response, 'response.json')
+            # Save the response to a JSON file using the collection name
+            save_response_to_json(response, collection_name)  # Pass collection_name
 
             print(f"{response}\n")
         else:

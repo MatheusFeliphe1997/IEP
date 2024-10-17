@@ -28,7 +28,7 @@ def split_text(text):
 
 # Reading the text file
 try:
-    with open('image_processing\Redacted_IEP_1_CA.txt', 'r', encoding="utf-8") as file:
+    with open('image_processing/Redacted_IEP_1_CA.txt', 'r', encoding="utf-8") as file:
         text = file.read()
 except FileNotFoundError:
     print("File '.txt' not found.")
