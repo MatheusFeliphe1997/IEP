@@ -6,6 +6,7 @@ import re
 import os
 from openai import OpenAI
 from dotenv import load_dotenv
+load_dotenv()
 
 def load_image(image_path):
     image = cv2.imread(image_path)
@@ -158,9 +159,15 @@ def detect_filled_checkboxes_and_extract_text_from_folder(folder_path, output_te
     print(f"Results saved to {output_text_path}")
 
 # Example usage
-folder_path = "Redacted_IEP_2_CA"
-output_text_path = "extracted_2_CA.txt"
-load_dotenv()
+
+folder_path = "pdf_to_image/Redacted_IEP_1_CA"
+
+folder_name = os.path.basename(folder_path)
+
+output_directory = "2-image_processing"
+
+output_text_path = os.path.join(output_directory, f"{folder_name}.txt")
+
 openai_api_key = os.getenv("KEY_OPENAI")
 
 
