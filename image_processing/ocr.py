@@ -159,11 +159,11 @@ def detect_filled_checkboxes_and_extract_text_from_folder(folder_path, output_te
     print(f"Results saved to {output_text_path}")
 
 
-folder_path = "pdf_to_image/Redacted_IEP_1_CA"
+folder_path = "pdf_to_image/Redacted_IEP_4_TX"
 
 folder_name = os.path.basename(folder_path)
 
-output_directory = "2-image_processing"
+output_directory = "image_processing"
 
 output_text_path = os.path.join(output_directory, f"{folder_name}.txt")
 

@@ -84,7 +84,7 @@ def generate_openai_response(client, content, question):
         return {"error": "Sorry, I couldn't generate a response at this time."}
     
 def save_response_to_json(response, collection_name):
-    filename = f"{collection_name}.json"  # Use the collection name in the filename
+    filename = f"query_and_response/{collection_name}.json"  # Use the collection name in the filename
     try:
         with open(filename, 'w') as json_file:
             json.dump(response, json_file, indent=4)

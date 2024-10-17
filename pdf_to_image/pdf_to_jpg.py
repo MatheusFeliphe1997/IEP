@@ -2,7 +2,7 @@ import os
 from pdf2image import convert_from_path
 
 # Path to the PDF file
-pdf_path = '1-pdf_to_image/Redacted_IEP_3_CA.pdf'  # Replace with your PDF file
+pdf_path = 'pdf_to_image/Redacted_IEP_3_CA.pdf'  # Replace with your PDF file
 
 # Create a folder with the name of the PDF (without extension)
 pdf_name = os.path.splitext(os.path.basename(pdf_path))[0]
