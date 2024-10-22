@@ -113,14 +113,13 @@ def process_text(client, text):
             "Separate the information in each section into separate paragraphs, keeping the sections clearly identified."
             "Each section must contain all relevant information, without additional summaries or edits."
             "Let's think step by step."
-            "Expeted output (as markdown format):"
-            "## Summary of the <section name> section"
-            "<summary of the section>;"
-            "## Summary of the <section name> section"
-            "<summary of the section>;"
-            "..."
-            "## Summary of the <section name> section"
-            "<summary of the section>;"
+            "Expected output:"
+            "## Section <section name>"
+            "<section>;"
+            "## Section <section name>"
+            "<Section>;"
+            "## Section <section name>"
+            "<Section>;"
 
             f"Extracted text:\n{text}"
         )
@@ -128,7 +127,7 @@ def process_text(client, text):
         chat_completion = client.chat.completions.create(
             model="gpt-4o-mini",
             messages=[
-                {"role": "system", "content": "You professionally separate texts for the IEP."},
+                {"role": "system", "content": "You are an expert at separating text from IEP documents. Your task is to organize the extracted information, keeping each section clearly identified and complete, without summarizing or editing the content."},
                 {"role": "user", "content": prompt}
             ]
         )
