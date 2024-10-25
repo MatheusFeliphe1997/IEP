@@ -107,19 +107,44 @@ def save_results(final_output, output_text_path):
 def process_text(client, text):
     try:
         prompt = (
-            
-            "You will receive texts extracted from IEP documents, which have been processed as images with [X] and [] checkboxes. Your task is: to separate these texts into sections, including all information."
-            "In summary, follow these guidelines:"
-            "Separate the information in each section into separate paragraphs, keeping the sections clearly identified."
-            "Each section must contain all relevant information, without additional summaries or edits."
-            "Let's think step by step."
-            "Expected output:"
-            "## Section <section name>"
-            "<section>;"
-            "## Section <section name>"
-            "<Section>;"
-            "## Section <section name>"
-            "<Section>;"
+                """
+                You will receive texts extracted from IEP documents, processed as images with checkboxes [X] and []. The text is already separated by pages. Your task is to organize these texts into sections based on the titles found in the headers of each page while preserving the page structure and the order of sections as presented in the text.
+
+                **Guidelines:**
+
+                1. **Spelling Correction:**
+                - Review the text to correct spelling errors, ensuring it is in U.S. English.
+
+                2. **Remove personal information:**
+                - Remove personal information: Student Name, Student Birthdate and Student Date of Birth. Keep all other information intact, without additional summaries or edits.
+
+                3. **Separation into Sections:**
+                - Identify and organize the text into sections based on the following example titles (these are not exhaustive):
+                    - INDIVIDUALIZED EDUCATION PROGRAM (IEP) - INFORMATION / ELIGIBILITY
+                    - INDIVIDUAL TRANSITION PLANNING (ITP)
+                    - PRESENT LEVELS OF ACADEMIC ACHIEVEMENT AND FUNCTIONAL PERFORMANCE
+                    - SPECIAL FACTORS
+                    - STATEWIDE ASSESSMENTS
+                    - ALTERNATE ASSESSMENT DECISION CONFIRMATION WORKSHEET
+                    - ANNUAL GOALS AND OBJECTIVES
+                    - OFFER OF FAPE - SERVICE
+                    - EMERGENCY CIRCUMSTANCES PROGRAM
+                    - OFFER OF FAPE - EDUCATIONAL SETTING
+                    - SIGNATURE AND PARENT CONSENT
+                    - IEP TEAM MEETING NOTES
+
+                - Sections may not appear on every page and can span multiple pages, but maintain the existing page structure and the order of sections as presented in the text.
+                - Follow a step-by-step approach, ensuring that the original page breaks and the order of sections are respected.
+
+
+                4. **Output Format:**
+                - Each section must be clearly identified and formatted as follows:
+                    ```
+                    ### SECTION <SECTION NAME>
+                    <Section text>;
+                    ```
+                """
+
 
             f"Extracted text:\n{text}"
         )
@@ -127,7 +152,7 @@ def process_text(client, text):
         chat_completion = client.chat.completions.create(
             model="gpt-4o-mini",
             messages=[
-                {"role": "system", "content": "You are an expert at separating text from IEP documents. Your task is to organize the extracted information, keeping each section clearly identified and complete, without summarizing or editing the content."},
+                {"role": "system", "content": "You are an expert at separating text from IEP documents. Your task is to organize the extracted information into clearly identified sections."},
                 {"role": "user", "content": prompt}
             ]
         )
@@ -158,9 +183,9 @@ def detect_filled_checkboxes_and_extract_text_from_folder(folder_path, output_te
     print(f"Results saved to {output_text_path}")
 
 
-folder_path = "pdf_to_image/Redacted_IEP_4_TX"
+folder_path = "pdf_to_image/Redacted_IEP_3_CA"
 
-folder_name = os.path.basename(folder_path)
+folder_name = os.path.basename(folder_path) 
 
 output_directory = "image_processing"
 

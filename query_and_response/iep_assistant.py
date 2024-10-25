@@ -16,7 +16,7 @@ client = OpenAI(api_key=key_openai)
 try:
     chroma_client = chromadb.PersistentClient(path='iap_db')
     # You can change collection: ( 1ca ), ( 2ca ), ( 3ca ), ( 4tx )
-    collection_name = "1ca"  # Store the collection name
+    collection_name = "3ca"  # Store the collection name
     collection = chroma_client.get_collection(name=collection_name)
 except Exception as e:
     print(f"Error initializing ChromaDB client: {e}")
@@ -28,7 +28,7 @@ openai_ef = embedding_functions.OpenAIEmbeddingFunction(
     api_key=key_openai
 )
 
-def search_documents(query, top_k=5):
+def search_documents(query, top_k=10):
     # Obtain the embedding of the query
     embedding_query = openai_ef([query])
     
@@ -52,13 +52,9 @@ def generate_openai_response(client, content, question):
                 {
                     "role": "system",
                     "content": """
-                        You are an IEP (Individualized Education Program) assistant. Your role is to provide clear and concise answers to any questions from families of children completing IEP documents. Respond with a JSON format containing the student's goals, but without summarizing, as shown in the example below:
-                        {
-                            "goal1": "The student needs help in mathematics.",
-                            "goal2": "The student needs help in Geography.",
-                            "goal3": "The student needs help with inclusion."
-                        }
-                        Maintain a supportive and empathetic tone during your interactions.
+                        You are tasked with extracting information from IEP documents. Your objective is to identify and organize details in a structured JSON format, regardless of the document type or layout. 
+                        
+                        Maintain Clarity: Ensure that each piece of information is accurately represented without summarizing or altering the content.
                     """
                 },
                 {"role": "system", "content": content},  # Document content
@@ -78,7 +74,7 @@ def generate_openai_response(client, content, question):
         return response_json
     except json.JSONDecodeError:
         print("Error decoding JSON response.")
-        return {"error": "Sorry, I couldn't generate a response in JSON format."}
+        return {"error": "Sorry, I couldn't generate a response."}
     except Exception as e:
         print(f"Error generating response: {e}")
         return {"error": "Sorry, I couldn't generate a response at this time."}

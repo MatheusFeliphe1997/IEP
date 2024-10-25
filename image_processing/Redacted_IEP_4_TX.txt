@@ -1,0 +1,712 @@
+```
+### SECTION INDIVIDUALIZED EDUCATION PROGRAM (IEP) - INFORMATION / ELIGIBILITY
+SS Sample Independent School 1 os » a District 200 College Street, Sample, TX 78634 - 512-759-3771  
+Student Last Name 12345  
+Sample Middle School  
+08/24/2010  
+NAME OF STUDENT  
+ID#  
+MEDICAID#  
+CAMPUS  
+DATE OF BIRTH  
+
+SLD Areas  
+[ ] oral Expression  
+[ ] O Reading Fluency Skills  
+[X] Basic Reading Skills  
+[X] Listening Comprehension  
+[ ] O Reading Comprehension  
+[ ] [1 Mathematics Calculation  
+[ ] 1 written Expression  
+[X] Mathematics Problem Solving  
+[ ] OO Yes  
+[X] No  
+Student has multiple disabilities  
+[ ] U1 Yes  
+[X] No  
+Student is medically fragile.  
+Notes:  
+
+### SECTION PRESENT LEVELS OF ACADEMIC ACHIEVEMENT AND FUNCTIONAL PERFORMANCE
+DEVELOPMENT OF THE INDIVIDUAL EDUCATIONAL PROGRAM (IEP)  
+[X] Yes  
+[ ] No  
+[ ] OO NA The ARD committee reviewed achievement of the previous year's goals on the IEP. (Applicable to all but initial ARD meetings.)  
+
+Reading: 
+Student is a 7th grade student at Sample Middle School. Student qualifies for special education services due to a specific learning disability in basic reading. Adyson's specific learning disability affects her ability to understand and/or use spoken or written language, resulting in achievement that is not commensurate with her age or ability in the area of basic reading. This impacts access to reading-related instruction and tasks such as reading a grade level text, answering comprehension questions and identifying key details and/or main idea of a text. On four significant assignments, this previous six weeks - on which the main idea and supporting facts were measured, Student scored an 86, 95, 90 and 86. This is evidence that she has mastered her goal of 80% accuracy from last year. Feedback from Adyson's other core teachers, both stated that she often needs to be reminded to stay on task and even with the use of the extra time accommodation, she needs to be aware of time constraints. Another accommodation that should aid Student on tests is small group testing for all core subjects. Ms. Hayes noted that Student does work hard on assignments, is self-advocatory and works well in a peer-partnered setting. Upon reviewing Adyson's previous year's scores from ELA base-line screeners, it is evident that she has made incredible progress. She has grown a full three years of grade level achievement. Last year, Student scored between a 230 and 400 (2nd grade 3rd month - beginning 4th grade) to 510 and 700 (5th grade 1st month - beginning 7th grade) in overall ELA achievement. Her overall Reading level last year indicated she was at 270 - 450 (2nd grade 7th month - 4th grade 5th month) and this year she is at 590 - 780 (5th grade 9th month - 7th grade 8th month). Upon analyzing Adyson's Interim Assessments from last year to this year, her strengths are the understanding of figurative language and the ability to paraphrase passages and she struggles with inferencing and determination of author's purpose in factual text analysis.  
+
+Math: 
+Student is a 7th grade student that qualifies with a Specific Learning Disability in the areas of listening comprehension, basic reading skills, and math problem solving. Based on her FIE data 6/14/2022, she also demonstrates deficits in the areas of long-term retrieval, auditory processing, and visual processing. Her deficit in visual processing impacts her ability to perceive, analyze, synthesize, manipulate, and think with visual patterns and stimuli. Her deficit in long-term retrieval impacts her ability to store new information and fluently retrieve stored information through association. Her deficit in auditory processing impacts her ability to notice, compare, discriminate.  
+
+Duration of Services: 01/10/2023 - 01/09/2024  
+``` ```
+### SECTION INDIVIDUALIZED EDUCATION PROGRAM (IEP) - INFORMATION / ELIGIBILITY
+Sample Independent School District 200 College Street, Sample, TX 78634 - 512-759-3771 
+Student Last Name 12345 
+Sample Middle School 
+08/24/2010 
+NAME OF STUDENT 
+ID# 
+MEDICAID# 
+CAMPUS 
+DATE OF BIRTH 
+This student is/will be enrolled in a grade participating in the Physical Fitness Assessment Initiative TEC § 38.101. (Grades 3 - 12) [X] yes [ ] No 
+The ARD committee has determined the following Health Classification for Physical Education: [X] Unrestricted 
+The student exhibits no physical limitations that will affect involvement. (not limited in activities) 
+Is this an Emergent Bilingual (EB) student who is/will be in grades K-12? [ ] Yes [X] No 
+District wide assessment is offered for this student's grade level? [X] Yes [ ] No 
+Will the student be able to participate in district wide assessment without modification? [X] Yes [ ] No 
+Does the student meet participation requirements for Alternate assessment? [ ] Yes [X] No 
+
+District Wide Assessment Duration of Services: 01/10/2023 - 01/09/2024 
+Page 10 of 20
+``` ```
+### SECTION LRE Service Alternatives
+The ARD committee must ensure that to the maximum extent appropriate students with disabilities are educated with students who are not disabled. Efforts to Modify and Supplement the Student's Participation | Provided/Considered| Educational Benefit in the General Education Setting Provided? Supplementary aids and services provided in the general education Provided Yes classroom Accommodations Provided =| Yes, | Special education resource room |__ Considered | Yes [| | Assistive technology | Provided | Yes {| Other: Co-Teach Teaching Model within the General Education Provided Yes Classroom [X] Yes [ ] 1 No Were these efforts to modify and supplement the student's participation in the general education setting sufficient? With classroom accommodations and the Co-Teach Model for Reading and Math, Student has been able to successfully participate in the general education setting. [X] Yes [ ] 1 No Will the student receive an educational benefit from participation in the general education setting (including nonacademic benefit)? Student is anticipated to receive both academic and non-academic benefit from participation in general education. [X] Yes [ ] No The ARD Committee has considered the effect the presence of a child with a disability has on the general education classroom, and thus, on the education that the other children are receiving. No negative effects anticipated ADYSON’s presence in the general education classroom has no negative effect on the classroom or on the education of the other students. Describe the student's overall educational experience in the general education setting, balancing the benefits of general and special education for the individual student: Student will spend the majority of her school day in the general education setting with daily support from special education in the form of small group pull-out and inclusion. [ ] Yes [X] No Does the ARD determine additional staff training is required to implement student's IEP? If Yes, please specify. [X] The committee recommends that this student receive ALL instruction and services in the general education setting with supplementary aids and services. OR [ ] L The committee recommends that this student receive part or all instruction in a special education setting. LRE Removal from General Education Duration of Services: 01/10/2023 - 01/09/2024
+``` ```
+### SECTION INFORMATION / ELIGIBILITY
+J Sample Independent School } Zz District 200 College Street, Sample, TX 78634 - 512-759-3771
+Student Last Name 12345
+Sample Middle School
+08/24/2010
+NAME OF STUDENT
+ID#
+MEDICAID#
+CAMPUS
+DATE OF BIRTH;
+
+### SECTION PRESENT LEVELS OF ACADEMIC ACHIEVEMENT AND FUNCTIONAL PERFORMANCE
+and distinguish sounds. It reflects phonetic coding skills (e.g., blending, deletion, phoneme manipulation). Last year Student made progress on her goal of writing and solving algebraic equations with 75% accuracy by 70% mastery as measured by data collection, daily work, and assessments. This year the data collection, daily work, assessments, IXL Diagnostic Screener, and STAAR data show that Student has demonstrated strengths in numbers and operations, as well as algebra and algebraic thinking. She has demonstrated weaknesses in measurement and fractions. Her previous goal will be discontinued and a new goal will be written to address her current needs. Mrs. Spencer and Ms. Holler report that Student has been doing well in Math in 7th grade. She receives between 70-90 on assessments, having to correct only 2/5 assessments thus far. The majority of her daily work have been A's and B's, with only failing grade for the year. She earned a 91 for the 1st 6-weeks, a 90 for the 2nd 6-weeks, and an 88 for the 3rd 6-weeks. She finished the 1st semester with a 90 average. She works hard and takes advantage of her accommodations when needed. Adyson's baseline data for Math is an early 5th grade to early 6th grade level overall. This was measured by the IXL Math Diagnostic Screener. Grade level peers perform at a 4th to 6th grade level on the same math screener. Based on her 6th grade STAAR test, her quantile level is 600. Her STAAR and IXL data are as follows: STAAR - 1490 (raw - 11/29%) which demonstrates that she did not meet grade level, although she was only 3 correct answers away from approaching grade level. Numerical Representations & Relationships - 4/10 Computations & Algebraic Relationships - 4/15 Geometry & Measurement - 0/6 Data Analysis & Personal Financial Literacy - 3/7 IXL - Overall math level - 520-620 (early 5th - early 6th) Numbers & Operations - 730 (early 7th grade) Algebra & Algebraic Thinking - 710-780 (early 7th - end of 7th) Fractions - 270-410 (end of 2nd - early 4th) Geometry - 570-640 (end of 5th - mid 6th) Measurement - 30-180 (early kinder - end of 1st) Data Analysis, Statistics, & Probability - 570-770 (end of 5th to end of 7th);
+
+### SECTION STATEWIDE ASSESSMENTS
+STATE / DISTRICT REQUIRED ASSESSMENT RESULTS / CONSIDERATIONS
+Results of previous assessments
+Year Grade Subject Assessment Type Results
+2019- 2019/05 03 Math STAAR 1283 Does Not Meet Grade Level;
+
+### SECTION DURATION OF SERVICES
+Duration of Services: 01/10/2023 - 01/09/2024;
+``` ```
+### SECTION INDIVIDUALIZED EDUCATION PROGRAM (IEP)
+Date of Meeting: 01/10/2023 
+Reason for Meeting: = Annual 
+ADMISSION, REVIEW, AND DISMISSAL (ARD) COMMITTEE MEETING 
+
+Sample Independent School District 
+200 College Street 
+Sample, TX 78634 
+512-759-3771 
+
+Student Last Name: 12345 
+Sample Middle School 
+08/24/2001 
+NAME OF STUDENT 
+ID# 
+MEDICAID# 
+CAMPUS 
+DATE OF BIRTH 
+Age: 12 
+Grade: 08 
+Year: 2023-2024 
+Gender: F 
+
+[ ] OO Yes 
+[X] No 
+
+An interpreter was used to assist in conducting the meeting. 
+
+### SECTION REVIEW OF EVALUATION DATA AND OTHER INFORMATION
+Full and Individual Evaluation: 06/14/2022 
+06/13/2025 
+DATE OF REPORT 
+NEXT FIE DUE 
+Specific Learning Disability: 04/04/2019 
+
+REVIEW OF ADDITIONAL EVALUATION 
+[X] Information from school personnel 
+[X] Student communication needs 
+[X] Attendance: 
+[X] Parent's concerns for enhancing the education of the child see deliberations 
+[ ] Yes 
+[X] No 
+
+Additional evaluation is needed: 
+
+Based on the evaluation data reviewed, the ARD committee determines that the student: 
+[X] Meets criteria for the following disability/disabilities based on evaluation data: 
+[X] Specific Learning Disability 
+
+AND 
+[X] Yes 
+[ ] No 
+
+by reason of the disability/disabilities has a need for special education and related services. 
+
+If the ARD Committee determines that the student has a disability and needs special education, the ARD committee must conduct an analysis of determinant factors before determining a student is eligible for special education services. 
+
+### SECTION ANALYSIS OF DETERMINANT FACTORS
+the ARD committee has reviewed the determinant factors (reasons) listed below in relation to the student's disability. 
+
+Are the factors listed below the reason/cause of the disability? 
+[ ] Yes 
+[X] No 
+
+- lack of explicit and systematic instruction in phonemic awareness, phonics, vocabulary development, reading fluency, including oral reading skills, and reading comprehension strategies. 
+[ ] Yes 
+[X] No 
+
+- lack of appropriate instruction in math. 
+[ ] Yes 
+[X] No 
+
+- emergent bilingual. 
+
+If the answer to any of the above determinant factor questions is YES, the student does not have a disability. 
+
+[X] Meets eligibility criteria for: 
+[X] Primary Disability: 08-Specific Learning Disability 
+Duration of Services: 01/10/2023 - 01/09/2024 
+Page 1 of 20
+``` ```
+### SECTION INDIVIDUALIZED EDUCATION PROGRAM (IEP) - INFORMATION / ELIGIBILITY
+i, Sample Independent School a District 200 College Street, Sample, TX 78634 - 512-759-3771
+Student Last Name 12345 Sample Middle School 08/24/2010
+NAME OF STUDENT 
+ID# 
+MEDICAID# 
+CAMPUS 
+DATE OF BIRTH 
+
+### SECTION SCHEDULE OF SERVICES
+Duration of Special Education Services: In effect from 01/10/2023 to 01/09/2024
+Instructional day: 
+Minutes or Periods per day: 
+Secondary: 2225 min/week 
+Next Year Minutes or Periods per day: 
+Secondary: 2225 min/week 
+
+Extended School Year (ESY) Services: 
+ESY is required if, in one or more critical areas addressed in the current IEP goals/objectives, the student has exhibited, or reasonably may be expected to exhibit, severe or substantial regression that cannot be recouped within a reasonable period of time. 
+
+Extended School Year Services were discussed: 
+[ ] L] Yes 
+[ ] L] No 
+[ ] Not considered at this time 
+
+Special Transportation: 
+[ ] L] Yes 
+[X] No 
+
+### SECTION COURSE/CURRICULUM AREA
+Semester Year Course/Curriculum Area Gen Ed General Special Progress/Grade Start Date | End Date 
+Modified education education determined by: 
+Location Time Time 
+Gen | Spe | Joint Ed Ed 
+Math Co-Teach 275 miniwk | 75 min/wk X | 01/10/2023 | 01/09/2024 General Education Setting 2022-2023 
+Science Inc. 275 miniwk | 30 min/wk x | 01/10/2023 | 01/09/2024 General Education Setting 2023-2024 
+ELA Co-Teach 275 miniwk | 75 min/wk X }| 01/10/2023 | 01/09/2024 General Education Setting 2023-2024 
+Elective 275 min/iwk x | 01/10/2023 | 01/09/2024 General Education Setting 2023-2024 
+Elective 275 miniwk x | 01/10/2023 | 01/09/2024 General Education Setting 2023-2024 
+Elective 275 min/iwk x | 01/10/2023 | 01/09/2024 General Education Setting 2023-2024 
+Social Studies 275 min/iwk x | 01/10/2023 | 01/09/2024 General Education Setting 
+
+### SECTION DESCRIPTOR OF COURSE CURRICULUM AREA
+Co-teach: Co-teaching service delivery model allows the student to remain in the general education classroom with the support of a Special Education teacher and a General Education teacher. In the co-taught classroom, both teachers work together to plan and deliver lessons, facilitate activities, and modify the curriculum according to the student's IEP. 
+
+Duration of Services: 01/10/2023 - 01/09/2024
+``` ```
+### SECTION INDIVIDUALIZED EDUCATION PROGRAM (IEP) - INFORMATION / ELIGIBILITY
+an Sample Independent School 1 & si District 200 College Street , Sample, TX 78634 - 512-759-3771 
+Student Last Name 12345 Sample Middle School 08/24/2010 
+NAME OF STUDENT ID# MEDICAID# CAMPUS DATE OF BIRTH 
+[X] The student is capable of achieving all goals/objectives in his/her IEP in the general education classroom with supports/services determined by the ARD committee. 
+
+### SECTION LRE CONSIDERATION OF POTENTIAL HARMFUL EFFECTS
+[LRE] Student is not removed from general education. 
+
+### SECTION LRE OPPORTUNITY TO PARTICIPATE IN NONACADEMIC ACTIVITIES
+[X] YES Will the student have the opportunity to participate with students without disabilities in all nonacademic, extracurricular and other activities? 
+
+### SECTION DURATION OF SERVICES
+Duration of Services: 01/10/2023 - 01/09/2024 
+``` ```
+### SECTION INDIVIDUALIZED EDUCATION PROGRAM (IEP) - INFORMATION / ELIGIBILITY
+» Ss Sample Independent School l » a District 200 College Street , Sample, TX 78634 - 512-759-3771  
+Student Last Name 12345 Sample Middle School 08/24/2010   
+NAME OF STUDENT ID# MEDICAID# CAMPUS DATE OF BIRTH  
+Results of previous assessments  
+Year Grade Subject Assessment Type Results  
+2019- 2019/05 03 Reading STAAR 1221 Does Not Meet Grade Level  
+2021- 2021/04 05 Math STAAR 1491 Does Not Meet Grade Level  
+2021- 2021/04 05 Reading STAAR 1437 Does Not Meet Grade Level  
+2021- 2021/05 05 Science STAAR 3033 Does Not Meet Grade Level  
+2022- 2022/05 06 Math STAAR 1490 Does Not Meet Grade Level  
+2022- 2022/05 06 Reading STAAR 1458 Does Not Meet Grade Level  
+
+### SECTION SPECIAL FACTORS
+[X] Statement of Intensive Program (Accelerated Instruction Plan): If the student did not perform satisfactorily on the state or alternate assessment, he or she will be provided an accelerated instruction plan. Adyson's accelerated instruction plan will include structured tutorials for one hour in math every other week and one hour in reading every other week after school. The committee has agreed to reduce the 30-hour requirement per subject to 10 hours per subject.  
+
+Transition  
+[X] The ARD committee has determined that transition services are not age appropriate at this time.  
+
+Behavior:  
+[ ] 1 yes [X] NO Does child's behavior impede child's own learning or that of others?  
+Behavior Intervention Plan:  
+[ ] L] Yes [X] No  
+
+Statement of assurance with regard to discipline: Regular discipline, as set forth in the student code of conduct, will be followed, subject to the timelines, ARD requirements, and manifestation determination requirements for disciplining students with disabilities pursuant to CFR 300.530 and any limitations set forth in the Individualized Education Program.  
+
+### SECTION STUDENT CODE OF CONDUCT
+Student Code of Conduct Statement In the case of a child whose behavior impedes the child's own learning or that of others, the ARD Committee must consider the use of positive behavioral interventions and supports, and other strategies, to address that behavior. (34 C.F.R. §300.324 (a)(2)(i). Student Code of conduct applies to all students. The district will implement its Code of Conduct with regard to all students, subject to and in compliance with the requirements of federal and state law pertaining to students with disabilities.  
+[X] Student is subject to following the District's Student Code of Conduct without any modifications.  
+
+### SECTION LANGUAGE NEEDS
+Language needs for second language learners as related to the Student's IEP  
+[X] Student is NOT a second language learner.  
+
+### SECTION COMMUNICATION NEEDS
+Communications Needs of the Student  
+[X] Student's communication is adequate to enable the student to be involved and progress in the general curriculum.  
+
+### SECTION DURATION OF SERVICES
+Duration of Services: 01/10/2023 - 01/09/2024  
+``` ```
+### SECTION IEP - INFORMATION / ELIGIBILITY
+Sample Independent School District 200 College Street, Sample, TX 78634 - 512-759-3771
+Student Last Name: 12345
+Sample Middle School
+Date of Birth: 08/24/2010
+ARD Facilitator: Heather Henson
+Introductions were made, procedural safeguards were sent electronically and received by the parent, and a statement of conduct and confidentiality was read. This meeting is being audio/video recorded. Today’s meeting is an Annual ARD held to review the progress Student has made over the past year and plan for the coming year. Mr. and Mrs. had the opportunity to review Goals and Accommodations prior to today's meeting. The current evaluation is dated June 14, 2022 and Student qualifies for Special Education Services as a student with a Specific Learning Disability in the areas of basic reading skills, listening comprehension, and math problem solving. Due to her most recent FIE, she demonstrated weaknesses in long-term retrieval, auditory processing, and visual processing.
+
+### SECTION PARENT AND SCHOOL CONCERNS
+Parent Concerns or Questions (including information about medication or physical limitations): 
+* No concerns at this time. 
+School Concerns or Questions: 
+* No concerns at this time.
+
+### SECTION PRESENT LEVELS OF ACADEMIC ACHIEVEMENT AND FUNCTIONAL PERFORMANCE
+Achievement of previous year’s goals were reviewed. Present levels of performance were reviewed. Teacher Feedback: 
+* Student is doing well in her classes, using accommodations as needed to be successful. She works hard and advocates for herself. Behavior was reviewed and she is able to follow the school code of conduct without modifications. Communication needs and Assistive technology were reviewed.
+
+### SECTION ANNUAL GOALS AND OBJECTIVES
+IEP goals were reviewed and accepted by the ARD committee. Accommodations were reviewed and accepted by the ARD committee.
+
+### SECTION DURATION OF SERVICES
+Duration of Services: 01/10/2023 - 01/09/2024
+``` ```
+### SECTION INDIVIDUALIZED EDUCATION PROGRAM (IEP) - INFORMATION / ELIGIBILITY
+i, Sample Independent School £ a District 200 College Street ' Sample, TX 78634 - 512-759-3771 
+Student Last Name 12345 
+Sample Middle School 
+08/24/2010 
+NAME OF STUDENT 
+ID# 
+MEDICAID# 
+CAMPUS 
+DATE OF BIRTH 
+
+### SECTION PRESENT LEVELS OF ACADEMIC ACHIEVEMENT AND FUNCTIONAL PERFORMANCE
+The STAAR assessments and accommodations were discussed and accepted by the ARDC. Student did not meet grade level on 6th Grade STAAR in math or reading. She will have an Accelerated Instruction Plan put in place to help her be successful. 
+
+### SECTION OFFER OF FAPE - SERVICE
+Schedule of Services: Student will continue to receive Co-Teach services in Math and ELA in her general education classes. She will receive 75 mins/wk in Math and ELA. She will also receive 30 mins/wk of In-class support in her general education Science class.
+
+### SECTION SPECIAL FACTORS
+Least restrictive environment was reviewed. Resources for parents: Supplemental Special Education Services, SSES are $1500 one time online grants for eligible parents/caregivers of eligible students served by special education that have been impacted by COVID-19 school closures. SSES Information/Application https://tea.texas.gov/academics/special-student-populations/special-education/supplemental-special-education-services-sses
+
+### SECTION IEP TEAM MEETING NOTES
+Assurances were read by a district representative. ARD minutes were reviewed and accepted by the ARD committee. All services agreed upon by ARDC will be fully implemented within five days of the ARDC meeting; however, the school may begin to implement some of the services agreed upon by ARDC prior to this date, unless parent requests otherwise. Deliberations are intended to be a summarization and not a verbatim account of the proceedings of this meeting. Deliberations/minutes were taken by Michelle Holler. 
+
+### SECTION DURATION OF SERVICES
+Duration of Services: 01/10/2023 - 01/09/2024
+``` ```
+### SECTION INDIVIDUALIZED EDUCATION PROGRAM (IEP) - INFORMATION / ELIGIBILITY
+SS Sample Independent School District 200 College Street, Sample, TX 78634 - 512-759-3771  
+Student Last Name: 12345  
+Sample Middle School  
+Date: 08/24/2010  
+NAME OF STUDENT: ______________  
+ID#: ______________  
+MEDICAID#: ______________  
+CAMPUS: ______________  
+DATE OF BIRTH: ______________  
+
+### SECTION PRESENT LEVELS OF ACADEMIC ACHIEVEMENT AND FUNCTIONAL PERFORMANCE
+Physical needs of the student [X] This student exhibits no physical limitations.  
+
+Assistive Technology needs of the student  
+In reviewing the student's needs, the ARD committee considered assistive technology needs and determined that: [X] The student will NOT be able to participate in the educational program or make reasonable progress toward mastery of IEP goals and objectives WITHOUT assistive technology, devices and/or services. The specific devices and/or services are documented in the IEP. [ ] Additional information is needed to decide whether or not the student requires assistive technology, devices and/or services to participate in the educational program and make adequate progress toward mastery of IEP goals and objectives. An AT evaluation is recommended to assess the specific educational needs of the student. Explain: Student benefits from the use of Text-to-Speech software, Word Prediction software, a word processor and a four function calculator.  
+
+Summary  
+After reviewing the above mentioned competencies and present levels of educational performance, the ARD committee has determined that this student's disability affects his/her involvement and progress in the general education curriculum. Specify areas:  
+[X] Language Arts  
+[X] Math  
+[X] Social Studies  
+[X] Science  
+
+Duration of Services: 01/10/2023 - 01/09/2024  
+Page 5 of 20  
+``` ```
+### SECTION INDIVIDUALIZED EDUCATION PROGRAM (IEP) - INFORMATION / ELIGIBILITY
+Sample Independent School | oo si District 200 College Street, Sample, TX 78634 - 512-759-3771
+Student Last Name 12345
+Sample Middle School
+08/24/2010
+NAME OF STUDENT
+ID#
+MEDICAID#
+CAMPUS
+DATE OF BIRTH
+
+The following accommodations address individual student needs and are necessary to enable the student to be involved in and to progress in the general education curriculum: 
+
+Are Accommodations needed for this student? 
+[X] Yes 
+[ ] No 
+
+For assistance in implementing this IEP, please contact Harvey Malone.
+Duration of Special Education Services: From: 01/10/2023 To: 01/09/2024
+Language of Delivery: English
+
+SPECIAL LANGUAGE PROGRAMS 
+[ ] Yes 
+[X] No 
+
+BEHAVIOR INTERVENTION PLAN 
+[X] Yes 
+[ ] No 
+
+ASSISTIVE TECHNOLOGY 
+[ ] Yes 
+[X] No 
+
+Personal Care Services 
+[ ] Yes 
+[X] No 
+
+Duration of Services: 01/10/2023 - 01/09/2024
+``` ```
+### SECTION INDIVIDUALIZED EDUCATION PROGRAM (IEP) - INFORMATION / ELIGIBILITY
+Sample Independent School District 200 College Street, Sample, TX 78634 - 512-759-3771  
+Student Last Name 12345 Sample Middle School 08/24/2010  
+NAME OF STUDENT ID# MEDICAID# CAMPUS DATE OF BIRTH  
+Records with personally identifiable information are located on the campus of the school which the student attends and the Special Education Services office at 200 College Street, Sample, TX 78634. You may call with any questions concerning records 512-759-3771  
+
+### SECTION ANNUAL GOALS AND OBJECTIVES
+REVIEW OF COMMITTEE DECISIONS:  
+[X] Accept Evaluation June 14, 2022  
+[ ] Accept reevaluation information review  
+[ ] Additional evaluation is needed Timeline for completion of evaluation  
+[ ] Accept/review Transition and/or Graduation Plan  
+[X] Extended School Year is recommended  
+[ ] Yes  
+[X] No  
+[X] Assistive Technology  
+[X] Yes  
+[ ] No  
+[X] Goals/  
+[X] Accept  
+[ ] Revise  
+[ ] Continue Objectives  
+[X] Behavior Intervention Plan:  
+[ ] Yes  
+[X] No  
+[X] Transportation services:  
+[ ] Yes  
+[ ] No  
+
+### SECTION OFFER OF FAPE - SERVICE
+Supplements Included:  
+[ ] DHH  
+[ ] Autism  
+[ ] Speech  
+[ ] O BIP Brief  
+[ ] O Dyslexia  
+[ ] O Esy  
+[ ] FBA  
+[ ] O FBP  
+[ ] O Graduation  
+[ ] O Comp  
+[ ] Med Fragile  
+[ ] Parent/IHT  
+[ ] Parent/IHT Needs  
+[ ] [ ] PCS  
+[ ] Rpspp  
+[ ] [ ] REED  
+[ ] STAAR-Alt 2  
+[ ] [ ] STAARMed Ex  
+[ ] STAARNAA  
+[ ] Transition  
+[ ] Transportation  
+[ ] Skilled Nursing Services  
+[ ] Medicaid One Time Parental Consent  
+[ ] Skilled Nursing Services (SA)  
+[ ] Medicaid Initial Notification  
+[ ] Medicaid Written Annual Notification  
+[ ] Other:  
+
+### SECTION IEP TEAM MEETING NOTES
+Deliberations:  
+Annual ARD Meeting Minutes  
+Date: 1/9/2023  
+ARD Committee Members  
+Parent: Christian and Stacey Last Name  
+District Representative: Misty Davis  
+General Education Representative: Kenjewel Hayes  
+Special Education Representative: Gena Antill and Michelle Holler  
+Assessment: Claudia Cook  
+Duration of Services: 01/10/2023 - 01/09/2024  
+Page 15 of 20  
+``` ```
+### SECTION INDIVIDUALIZED EDUCATION PROGRAM (IEP) - INFORMATION / ELIGIBILITY
+7 Sample Independent School | si District 200 College Street . Sample, TX 78634 - 512-759-3771 Student Last Name 12345 Sample Middle School 08/24/2010 NAME OF STUDENT ID# MEDICAID# CAMPUS DATE OF BIRTH *PLACEMENT OF SERVICES *The ARD committee determined that services will be provided at: Name of Current Year Enrollment Campus: Sample Middle School Name of Interim Enrollment Campus: Sample Middle School Name of Current Year Instructional Setting: 40-Mainstream Speech Therapy Services in addition to the Instructional Setting Indicated: 0 - No speech therapy [X] Yes [ ] 1 No *This is the same campus the student would attend if not disabled. If NO, identify the services that cannot reasonably be provided on the student's home campus. [ ] im Frequent and intense behavioral interventions [ ] O Specially Trained Education Personnel [ ] O Specialized equipment and resources that would be fiscally unreasonable to duplicate [ ] O (RDSPD Students) student's hearing loss severely impairs processing linguistic information through hearing, even with recommended amplification, and adversely affects educational performance. [ ] Other: [X] Yes [ ] No According to district attendance zones this is the campus which is as close as possible to the student's home. Justify: 
+
+### SECTION ASSURANCES
+ASSURANCES: parents assured by: Name: Heather Henson Title: ARD Facilitator The ARD committee assures that removal of students with disabilities from the regular educational environment occurs only if the nature or severity of the disability is such that education in regular classes with the use of supplementary aids and services cannot be achieved satisfactorily. The ARD committee assures that each student with a disability participates in nonacademic and extracurricular services and activities, including meals, and recess periods, with nondisabled students to the maximum extent appropriate to the needs of the student. The ARD committee assures that to the maximum extent appropriate, students with disabilities, including students in public or private institutions or other care facilities, are educated with students who are nondisabled. 
+
+### SECTION ACCESS TO AND DESTRUCTION OF RECORDS
+Access to and Destruction of Records The special education department observes federal and state laws, state regulations and local policies pertaining to the confidentiality of student records. Parents (or an eligible student 18 years or older) may inspect and review records at any time. School officials with a legitimate educational interest have access to student records. The parents of a student with a disability must give written consent before a student's records can be seen by someone not involved in the student's education. If the student transfers to another school district, special education records will be sent to the receiving district without parental consent. Special education eligibility and educational records are maintained for seven (7) years following the date of the last recorded action for each student served by the Special Education Department of Sample Independent School District. At the end of seven years, the records may be destroyed. Parent/guardian/adult student has been informed that the District shall retain education records of students with disabilities for seven years after the student's graduation or dismissal from special education. 
+
+### SECTION DURATION OF SERVICES
+Duration of Services: 01/10/2023 - 01/09/2024 Page 14 of 20
+``` ```
+### SECTION MEASURABLE ANNUAL GOAL
+Goal Number: 1. Goal Focus Mathematics 
+[ ] 0 Draft 
+[ ] O esy 
+[X] Accepted by Committee 
+[ ] O) Transition Related Goal 
+[X] Academic 
+[ ] O Functional 
+[ ] 0 Related Services 
+By the next Annual ARD, when given a series of real-world word problems, Student will be able to select the appropriate strategy and solve with 80% accuracy in 2 out of 3 opportunities. 
+Duration: 01/10/2023 to 01/09/2024 
+Language of Delivery: English 
+Grade Level: 07 
+
+BENCHMARKS OR SHORT-TERM OBJECTIVES 
+In 36 instructional weeks, when given a series of real-world word problems, Student will be able to select the appropriate strategy and solve with 80% accuracy in 2 out of 3 opportunities. 
+In 18 instructional weeks, when given a series of real-world word problems, Student will be able to select the appropriate strategy with 70% accuracy in 2 out of 3 opportunities. 
+Implementer: General & Special Ed. teachers 
+Method of Evaluation: Data Collection. Observations 
+Periodic reports on the progress the student is making toward meeting the annual goal will be provided (frequency): concurrent with report cards 
+
+MEASURABLE ANNUAL GOAL: Goal Number: 2 
+Goal Focus Language Arts 
+[ ] O Draft 
+[ ] O esy 
+[X] Accepted by Committee 
+[ ] O Transition Related Goal 
+[X] Academic 
+[ ] O Functional 
+[ ] 0 Related Services 
+Annual ARD to annual ARD, after reading an informational, independent level text, Student will state the central idea of the text, list 3 supporting details, and explain in writing, by multiple-choice or verbally how the details support the central idea, scoring 85% in 3 out of 4 opportunities. 
+Duration: 01/10/2023 to 01/09/2024 
+Language of Delivery: English 
+Grade Level: 07 
+
+BENCHMARKS OR SHORT-TERM OBJECTIVES 
+In 12 instructional weeks, Student will be able to state the main idea of a literary text, and provide at least 3 supporting details with 80% accuracy. 
+In 24 instructional weeks, Student will be able to state the main idea with 85% accuracy and provide at least 2 supporting details. 
+Implementer: Special Ed. Teacher 
+Method of Evaluation: Data Collection. Observations, Teacher Made Tests, Work Samples 
+Periodic reports on the progress the student is making toward meeting the annual goal will be provided (frequency): concurrent with report cards 
+Duration of Services: 01/10/2023 - 01/09/2024 
+``` ```
+### SECTION INDIVIDUALIZED EDUCATION PROGRAM (IEP) - INFORMATION / ELIGIBILITY
+7 Sample Independent School District 200 College Street, Sample, TX 78634 - 512-759-3771  
+Student Last Name: 12345  
+Sample Middle School  
+Date: 08/24/2010  
+NAME OF STUDENT:  
+ID#:  
+MEDICAID#:  
+CAMPUS:  
+DATE OF BIRTH:  
+Prior Written Notice Date Sent/Mailed: 01/10/2023
+
+Description of the action proposed or refused:  
+1. District proposed new goals.  
+2. District proposed accommodations.  
+3. District proposed District/State Assessments and accommodations for testing.  
+4. District proposed an Accelerated Instruction Plan.  
+5. District proposed special education supports and services.  
+
+Explanation of why action was proposed or refused:  
+1. Annual ARD due; Goals updated to meet current present levels of academic achievement and functional performance.  
+2. Updated accommodations based on current needs.  
+3. Student required to take these assessments and accommodations are recommended.  
+4. Accelerated Instruction Plan is required due to STAAR assessment scores.  
+5. The student requires specially designed instruction to make progress in general education.  
+
+Description of other options considered:  
+1. Continue current IEP  
+2. ESY, extended school year was considered.  
+
+Why Options were Rejected:  
+1. The student needs continued special education services as described in the IEP.  
+2. Student does not meet eligibility requirements for ESY  
+
+Evaluation procedures, tests, records, or reports used as a basis for the proposal or refusal:  
+FIE; grades; state assessments; teacher information; parent information; student information.  
+
+Other factors relevant to the proposal or refusal:  
+The parent(s) of a student with a disability/adult student has protection under the procedural safeguards of the IDEA. A copy of the procedural safeguards in understandable language, where feasible, must be given to the parents/guardian of a child with a disability only once in a year. A copy must also be given when an initial evaluation or a parent request for an evaluation occurs, upon receipt of the first due process, or State complaint during a school year, when the district decides to make a change in placement due to a discipline issue, and upon parent request. [300.504(a)] A copy will be/was provided to Stacey Last Name on 01/09/2024.  
+
+Federal regulations require that parents and adult students be provided prior notice in their native language or other mode of communication each time the District proposes or refuses to initiate or change the identification, or educational placement of your child/you or the provision of a free appropriate public school education (FAPE) to your student/you, or upon conducting a manifestation determination. [ ] The notice was translated orally or by other means to the parent/adult student in his/her native language or other mode of communication on: _ by _  
+
+Duration of Services: 01/10/2023 - 01/09/2024
+``` ```
+### SECTION INDIVIDUALIZED EDUCATION PROGRAM (IEP) - INFORMATION / ELIGIBILITY
+i, Sample Independent School a District 200 College Street Sample, TX 78634 - 512-759-3771
+Student Last Name 12345 Sample Middle School 08/24/2010
+NAME OF STUDENT ID# MEDICAID# CAMPUS DATE OF BIRTH
+SIGNATURES OF COMMITTEE MEMBERS AND OTHER PARTICIPANTS
+Date of Meeting: 01/10/2023
+sneey rast Name
+Parenn(syAcun
+Seager
+Px | Christian Fast Name
+Beenie mouvement
+Po | Gena Antill
+Special Education Teacher/ Provider
+Po Michelle Holler Special Ee Teacher
+PF Duration of Services: 01/10/2023 - 01/09/2024
+Page 18 of 20
+``` ```
+### SECTION INDIVIDUALIZED EDUCATION PROGRAM (IEP) - INFORMATION / ELIGIBILITY
+- Sample Independent School District 200 College Street Sample, TX 78634 - 512-759-3771
+- NAME OF STUDENT: 12345
+- ID#: 
+- MEDICAID#: 
+- CAMPUS: 
+- DATE OF BIRTH: 
+
+### SECTION PRESENT LEVELS OF ACADEMIC ACHIEVEMENT AND FUNCTIONAL PERFORMANCE
+- ACCOMMODATION SUBJECT: Path Sci SS LE
+- Adapt Classroom Instruction: 
+  - Scaffold steps in a process (i.e., bullet each step, space out each step) 
+  - Sit near teacher for instructional purposes 
+- Adapted or Additional Materials: 
+  - Copy of class notes 
+  - Supplemental Aids: Mnemonic Devices 
+- Alter Assignments or Testing: 
+  - Extra time for completing assignments and assessments (up to 1 day) 
+  - Reduced number of classroom assignments and/or length of assignments (at teacher discretion) 
+  - Test: Oral Administration of directions, questions, and answer choices (at student request) 
+  - Test: Oral Administration: read parts of a test (at student request) 
+  - Test: Small-Group Administration 
+
+### SECTION SPECIAL FACTORS
+- Manage Behavior: 
+  - Positive reinforcement/feedback 
+  - Reminders to stay on task 
+
+### SECTION REQUIRED EQUIPMENT/AT
+- Spelling Assistance: 
+  - Text-to-Speech Software 
+  - Word-Prediction Software 
+  - Word processor 
+
+### SECTION OFFER OF FAPE - SERVICE
+- Duration of Services: 01/10/2023 - 01/09/2024 
+
+### SECTION LEGEND
+- ELA = English Language Arts, Math = Mathematics, Sci = Science, SS = Social Studies, ELE = Electives 
+
+Page 8 of 20
+``` ```
+### SECTION IEP - INFORMATION / ELIGIBILITY
+i, Sample Independent School a District 200 College Street Sample, TX 78634 - 512-759-3771
+Student Last Name 12345 
+Sample Middle School 
+08/24/2010 
+NAME OF STUDENT 
+ID# 
+MEDICAID# 
+CAMPUS 
+DATE OF BIRTH 
+State Assessment (STAAR/TELPAS) 
+This student is/will be in grade level that takes the STAAR? [X] Yes [ ] No 
+
+### SECTION OFFER OF FAPE - SERVICE
+Duration of Special Education Services: In effect from 01/10/2023 to 01/09/2024 
+
+### SECTION STATEWIDE ASSESSMENTS
+STAAR (Grades 3-8) Assessment Types 
+STAAR Po 
+STAAR Po Science (5 & 8) 
+STAAR Po Social Studies (8 only) 
+STAAR po 
+STAAR EOC (Grades 9-12) Assessment Types 
+Subject Current Year_N/A 
+Algebra | a 
+Biology 1 
+English | PNA 
+English I 1 
+U.S. History 7 
+
+### SECTION STAAR NOTES
+STAAR Notes: 
+
+### SECTION STAAR ACCOMMODATIONS
+STAAR Accommodations 
+RLA   English  Math  Science  Social Studies 
+Calculation Aids: Basic Calculator (i.e., four-function) or [ ] O [ ] im [ ] [X] im [ ] O 
+calculator application (Gr 3-7 Math, & Gr 5 Sc) 
+[DS] Content and Language Supports - Online Embedded 
+[ ] [X] O [ ] [X] O [ ] im 
+[DS] Oral/Signed Administration: Text-to-Speech (Read Parts [ ] [X] O [ ] [X] O [ ] O 
+Per Student Request) 
+[DS] Spelling Assistance: Spell Check Function on a Word 
+[ ] [X] O [ ] O [ ] O [ ] O 
+Processor or as an online embedded support 
+[DS] Physical Fitness Assessment Initiative 
+Duration of Services: 01/10/2023 - 01/09/2024 
+``` ```
+### SECTION INDIVIDUALIZED EDUCATION PROGRAM (IEP) - INFORMATION / ELIGIBILITY
+an Sample Independent School | si District 200 College Street , Sample, TX 78634 - 512-759-3771
+Student Last Name 12345
+Sample Middle School
+08/24/2010
+NAME OF STUDENT
+ID#
+MEDICAID#
+CAMPUS
+DATE OF BIRTH
+
+(|
+Parent/adult student verified to the translator that he/she understands the content of this notice. To obtain assistance in understanding this notice, you may call: 
+Name: Heather Henson 
+Position: ARD Facilitator 
+Phone: 737-327-5257 or Education Service Center #512-919-5313 or Special Education Information Center at #1-855-SPEDTEX (1-855-773-3839)
+
+[X] Yes 
+[ ] No
+
+The committee mutually agreed to implement the services reflected in these proceedings. 
+
+WAIVER FOR NOTICE TO PROVIDE SERVICES 
+[X] Yes 
+[ ] No 
+
+Parent(s) or adult student attended the ARD meeting. If No, copy of the ARD will be provided. 
+[ ] Yes 
+[X] No 
+
+Parent(s) or adult student agrees to waive the five school day waiting period between the current IEP and the implementation of the proposed IEP. If parent(s) or adult student declines the waiver, the previous IEP will remain in effect until the newly adopted IEP is implemented after a five day waiting period.  
+
+Signature of Parent(s), Guardian, Surrogate or Adult Student 
+
+To obtain assistance in understanding this notice of ARD committee provisions, you may call Special Education Information Center at #1-855-SPEDTEX (1-855-773-3839) or Education Service Center, 512-919-5313. 
+
+[ ] Yes 
+[X] No 
+
+This is an Initial Provision of Services 
+Duration of Services: 01/10/2023 - 01/09/2024 
+
+Page 20 of 20
+```

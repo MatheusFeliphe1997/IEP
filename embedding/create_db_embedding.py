@@ -11,7 +11,7 @@ if key_openai is None:
 try:
     chroma_client = chromadb.PersistentClient(path='iap_db')
     # You can change collection: ( 1ca ), ( 2ca ), ( 3ca ), ( 4tx )
-    collection = chroma_client.get_or_create_collection(name="1ca")
+    collection = chroma_client.get_or_create_collection(name="3ca")
 except Exception as e:
     print(f"Error initializing ChromaDB client: {e}")
     raise
@@ -23,7 +23,7 @@ openai_ef = embedding_functions.OpenAIEmbeddingFunction(
 )
 
 def split_text(text):
-    pieces = text.split("##")
+    pieces = text.split("###")
     return [piece.strip() for piece in pieces if piece.strip()]
 
 # Reading the text file
